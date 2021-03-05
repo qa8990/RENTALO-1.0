@@ -43,6 +43,7 @@ $ pip install --upgrade robotframework-datadriver[XLS]
 La Suite de Pruebas esta configurada para que pueda agregar los valores necesarios en los casos de pruebas y escenarios ya definidos en una hoja de calculo. El archivo debe denominarse **RENTALOMX.XLSX**
 Edite la hoja de Calculo ( Excel MS o Google spreadsheet )
 Esta hoja de calculo contiene hojas individuales con los datos necesarios para cada escenario o suite de pruebas, a continuacionse describen las hojas utilizadas y su contenido a utilizar en cada parametro:
+
 A) **FLUJOBASICO1** - Es utilizada para la revision del Flujo Basico de busqueda de maquinarias
 contiene los siguientes parametros o datos informativos :
 a) *** Test Cases ***	: Describe el caso de prueba
