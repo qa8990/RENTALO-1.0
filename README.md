@@ -49,11 +49,17 @@ contiene los siguientes parametros o datos informativos :
 a) *** Test Cases ***	: Describe el caso de prueba
 
 b) ${scenario}	: Indica el caso de prueba a realizar en la suite
+
 c) ${searchKey}	: Keyword de busqueda de maquinaria
+
 d) ${searchKey2} : 2nda Keyword a utilizar en la busqueda de maquinaria - refina la busqueda	
+
 e) ${link}	: Link relacionado a la busqueda utilizado en el href
+
 f) ${itemInfo}	: Informacion de la busqueda o maquinaria
+
 g) ${itemInfo2}	: Informacion de la busqueda o maquinaria en la 2nda keyword para refinar la busqueda
+
 h) [Tags] : Los Tags permiten identificar o agrupar las pruebas o casos de pruebas ejecutados, por defecto el caso de prueba que siempre debe servir de referencia para garantizar una prueba es **SMOKE TEST**
 
 
