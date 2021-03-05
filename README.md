@@ -46,12 +46,11 @@ Esta hoja de calculo contiene hojas individuales con los datos necesarios para c
 
 A) **FLUJOBASICO1** - Es utilizada para la revision del Flujo Basico de busqueda de maquinarias
 contiene los siguientes parametros o datos informativos :
-a) *** Test Cases ***	: Describe el caso de prueba
 
+a) *** Test Cases ***	: Describe el caso de prueba
 b) ${scenario}	: Indica el caso de prueba a realizar en la suite
 
 c) ${searchKey}	: Keyword de busqueda de maquinaria
-
 d) ${searchKey2} : 2nda Keyword a utilizar en la busqueda de maquinaria - refina la busqueda	
 
 e) ${link}	: Link relacionado a la busqueda utilizado en el href
