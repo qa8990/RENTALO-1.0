@@ -45,7 +45,6 @@ Edite la hoja de Calculo ( Excel MS o Google spreadsheet )
 Esta hoja de calculo contiene hojas individuales con los datos necesarios para cada escenario o suite de pruebas, a continuacionse describen las hojas utilizadas y su contenido a utilizar en cada parametro:
 
 A) **FLUJOBASICO1** - Es utilizada para la revision del Flujo Basico de busqueda de maquinarias contiene los siguientes parametros o datos informativos :
-
 a) *** Test Cases ***	: Describe el caso de prueba
 b) ${scenario}	: Indica el caso de prueba a realizar en la suite
 
